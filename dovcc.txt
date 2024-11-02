@@ -2011,7 +2011,7 @@ function Kavo.CreateLib(kavName, themeList)
                 togName.BackgroundTransparency = 1.000
                 togName.Position = UDim2.new(0.096704483, 0, 0.272727281, 0)
                 togName.Size = UDim2.new(0, 222, 0, 14)
-                togName.Font = Enum.Font.GothamSemibold
+                togName.Font = Enum.Font.Fondamento
                 togName.Text = keytext
                 togName.RichText = true
                 togName.TextColor3 = themeList.TextColor
